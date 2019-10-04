@@ -1,0 +1,5 @@
+for ( int x= 0; x<=5; x++)
+B= (( c + a) * d ) / f
+while ( a < 5 ) a= a+1
+char MyCourse[5];
+if ( a< b) a=a*a; else b=b*b;
